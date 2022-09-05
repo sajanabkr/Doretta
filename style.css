@@ -1,63 +1,4 @@
-/**
-* ! Changing default styles of the browser
-**/
 
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-body {
-  font-family: sans-serif;
-}
-
-i {
-  cursor: pointer;
-}
-
-a {
-  text-decoration: none;
-  color: Red;
-}
-
-/**
-* ! Navbar STyles are here
-**/
-
-.navbar {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  background-color: #212529;
-  color: Red;
-  padding: 25px 60px;
-  margin-bottom: 30px;
-}
-
-.cart {
-  position: relative;
-  background-color: #fff;
-  color: #212529;
-  font-size: 30px;
-  padding: 5px;
-  border-radius: 4px;
-}
-
-.cartAmount {
-  position: absolute;
-  top: -15px;
-  right: -10px;
-  font-size: 16px;
-  background-color: red;
-  color: Red;
-  padding: 3px;
-  border-radius: 3px;
-}
-
-/**
-* ! Shop items styles are here
-**/
 
 .shop {
   display: grid;
@@ -179,9 +120,3 @@ a {
   gap: 10px;
 }
 
-.cart-item-price {
-  background-color: #212529;
-  color: Red;
-  border-radius: 4px;
-  padding: 3px 6px;
-}
