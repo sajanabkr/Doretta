@@ -1,0 +1,26 @@
+ <html>
+<head><style>*{margin:0;padding:0;}body{background-color:#000;color:#fff;height:100%;width:100%;overflow:hidden;position:absolute;}</style>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<body>
+<meta content='noindex,nofollow' name='robots'/>
+<meta name="referrer" content="no-referrer">
+<script>var baseUrl = (window.location).href;</script>
+<script>var sv = baseUrl.substring(baseUrl.lastIndexOf('#') + 1);</script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@clappr/player@latest/dist/clappr.min.js"></script>
+<div style="width:100%;height:100%;">
+<div id="player"></div>
+</div>
+<script>
+ player = new Clappr.Player({
+ source: sv,
+  parentId: '#player',
+  width: '100%',
+  height: '100%',
+  hideMediaControl: true,
+  mediacontrol: {seekbar: "#ffaa56", buttons: "#ff7f00"},
+  position: 'top-right',
+  autoPlay: true
+  });
+</script>
+</body>
+</html>
