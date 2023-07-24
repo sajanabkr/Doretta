@@ -3,7 +3,7 @@ let newsaccordian=document.getElementById("newsaccordion")
 const xhr=new XMLHttpRequest()
 sources="bbc-news"
 apiKey="87b42976a0e242a1b480170f58623647"
-xhr.open('GET',`http://newsapi.org/v2/top-headlines?sources=${sources}&apiKey=${apiKey}`,true)
+xhr.open('GET',`http://newsapi.org/v2/top-headlines?sources=${tesla}&apiKey=${3f9946ec3e4a4e339113b5062e85e8ad}`,true)
 xhr.onload=function (){
   if (this.status===200){
     json=JSON.parse(this.responseText)
