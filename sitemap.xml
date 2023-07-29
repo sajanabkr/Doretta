@@ -1,14 +1,46 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-		<!--	created with www.mysitemapgenerator.com	-->
-		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
 <url>
-	<loc>https://sajannetworks.com/</loc>
+<loc>https://sajannetworks.com/</loc>
+<lastmod>2023-07-29T06:21:18+00:00</lastmod>
+</url>
+
+<url>
+<loc>https://sajannetworks.com/#[object%20Object]</loc>
 	<lastmod>2023-07-25T11:15:42+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>https://sajannetworks.com/tel%3A%2B97474747656</loc>
+           <loc>https://sajannetworks.com/About</loc>
+		   	<lastmod>2023-07-25T11:15:42+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+             <loc>https://sajannetworks.com/Products</loc>
+			 	<lastmod>2023-07-25T11:15:42+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+<loc>https://sajannetworks.com/Brands</loc>
 	<lastmod>2023-07-25T11:15:42+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
-</urlset>
+<url>
+            <loc>https://sajannetworks.com/Faq</loc>
+				<lastmod>2023-07-25T11:15:42+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	    <loc>https://shop.sajannetworks.com/</loc>
+			<lastmod>2023-07-25T11:15:42+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+             <loc>https://clientarea.sajannetworks.com/?ng=client/home/</loc>
+			 	<lastmod>2023-07-25T11:15:42+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+			  
+			  
+			  </urlset>
